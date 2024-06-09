@@ -1,0 +1,4 @@
+FROM openjdk:17-jdk
+ADD ./target/MicroserviceProduct-0.0.1-SNAPSHOT.jar product-service.jar
+EXPOSE 8003
+ENTRYPOINT ["java", "-jar", "product-service.jar"]

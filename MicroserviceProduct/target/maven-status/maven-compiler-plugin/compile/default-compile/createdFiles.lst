@@ -1,0 +1,11 @@
+co\unicauca\microservice\apirest\ProductsApplication.class
+co\unicauca\microservice\apirest\model\service\iProductService.class
+co\unicauca\microservice\apirest\repository\iProductRepository.class
+co\unicauca\microservice\apirest\controller\CategoryController.class
+co\unicauca\microservice\apirest\model\service\implementation\ProductService.class
+co\unicauca\microservice\apirest\model\entity\Product.class
+co\unicauca\microservice\apirest\model\entity\Category.class
+co\unicauca\microservice\apirest\model\service\iCategoryService.class
+co\unicauca\microservice\apirest\repository\iCategoryRepository.class
+co\unicauca\microservice\apirest\controller\ProductController.class
+co\unicauca\microservice\apirest\model\service\implementation\CategoryService.class
