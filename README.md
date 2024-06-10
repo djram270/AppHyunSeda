@@ -107,7 +107,7 @@ Para desarrollar una aplicación escalable y fácil de mantener, hemos optado po
 
 Con el objetivo de mejorar la flexibilidad y capacidad de mantenimiento del microservicio de producto, hemos decidido convertirlo a una arquitectura hexagonal. Descartamos mantener la arquitectura monolítica para lograr una mejor separación de preocupaciones y facilitar la integración con otros servicios. Aceptamos que esto introduce complejidad adicional en la configuración inicial y el diseño.
 
-### 6. Documentacion con swagger
+# Documentacion con swagger
 
 - **End points de autorizacion**
 ![image](https://github.com/djram270/AppHyunSeda/assets/163693837/d2f89c06-422d-4306-abf0-ba26796eb6b6)
@@ -117,3 +117,8 @@ Con el objetivo de mejorar la flexibilidad y capacidad de mantenimiento del micr
 
 - **End point de categorías**
 ![image](https://github.com/djram270/AppHyunSeda/assets/163693837/ec5aaf28-8416-4710-8470-eeb70275b556)
+
+# Pruebas Unitarias
+![imagen](https://github.com/djram270/AppHyunSeda/assets/54742876/cb2672ed-c6e1-4b8b-a760-829995b6754a)
+
+
