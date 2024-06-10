@@ -1,8 +1,0 @@
-com.apirest.apirest
-com.apirest.apirest.access.microservice
-com.apirest.apirest.access.microservice.implementation
-com.apirest.apirest.access.model
-com.apirest.apirest.controller
-com.apirest.apirest.Domain.entity
-com.apirest.apirest.Domain.service
-com.apirest.apirest.repository
