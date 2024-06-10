@@ -1,10 +1,10 @@
 # Ingeniería de Software II Proyecto final - Universidad del Cauca 
 
 ## Integrantes:
-- Oscar Andres Tosne Perez
-- Samuel Guilombo Gomez
 - Stiven Alirio Chanchi Dizu
+- Samuel Guilombo Gomez
 - Miguel Angel Polo Gomez
+- Oscar Andres Tosne Perez
 
 # Introducción
 Este proyecto tiene como objetivo desarrollar una aplicación para HYUN SEDA, una empresa especializada en productos de seda.
