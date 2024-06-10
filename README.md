@@ -105,4 +105,4 @@ Para desarrollar una aplicación escalable y fácil de mantener, hemos optado po
 
 ### 5. Arquitectura Hexagonal para el Microservicio de Producto
 
-Con el objetivo de mejorar la flexibilidad y capacidad de mantenimiento del microservicio de producto, hemos decidido convertirlo a una arquitectura hexagonal. Descartamos mantener la arquitectura monolítica para lograr una mejor separación de preocupaciones y facilitar la integración con otros servicios. Aceptamos que esto introduce complejidad adicional en la configuración inicial y el diseño, pero la arquitectura hexagonal nos permite tener un núcleo de lógica de negocio independiente de las interfaces externas, lo que facilita la prueba y evolución del microservicio.
+Con el objetivo de mejorar la flexibilidad y capacidad de mantenimiento del microservicio de producto, hemos decidido convertirlo a una arquitectura hexagonal. Descartamos mantener la arquitectura monolítica para lograr una mejor separación de preocupaciones y facilitar la integración con otros servicios. Aceptamos que esto introduce complejidad adicional en la configuración inicial y el diseño.
