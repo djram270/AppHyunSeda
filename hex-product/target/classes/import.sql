@@ -1,5 +1,5 @@
-INSERT INTO t_user (country, firstname, lastname, password, role, username) VALUES ('parasernombrada', 'quenecesita', 'llegarhastaesteatributo', '$2a$10$PZmoWzIl9YPjSmP8c11yb.WxZQyndtWKeShEuficgilEjVTrCbo1W', 'USER', 'tumama');
-INSERT INTO t_user (country, firstname, lastname, password, role, username) VALUES ('parasernombrada', 'quenecesita', 'llegarhastaesteatributo', '$2a$10$PZmoWzIl9YPjSmP8c11yb.WxZQyndtWKeShEuficgilEjVTrCbo1W', 'ADMIN', 'tu');
+INSERT INTO t_user (country, firstname, lastname, password, role, username) VALUES ('Colombia', 'Miguel', 'Polo', '$2a$10$PZmoWzIl9YPjSmP8c11yb.WxZQyndtWKeShEuficgilEjVTrCbo1W', 'USER', 'mpolo');
+INSERT INTO t_user (country, firstname, lastname, password, role, username) VALUES ('Colombia', 'Samuel', 'Kilombo', '$2a$10$PZmoWzIl9YPjSmP8c11yb.WxZQyndtWKeShEuficgilEjVTrCbo1W', 'ADMIN', 'ksamuel');
 
 INSERT INTO category (name) VALUES ('ct1');
 INSERT INTO category (name) VALUES ('ct12');
