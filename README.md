@@ -17,8 +17,10 @@ El proyecto integra los siguientes componentes tecnológicos:
 - Autenticación y autorización con JWT: Implementación de autenticación y autorización utilizando JSON Web Tokens (JWT).
 - Patrón Hexagonal: Aplicación del patrón arquitectónico hexagonal para una mayor flexibilidad y mantenibilidad del código.
 
-# Requisitos
+# Demo
+[![](https://markdown-videos.deta.dev/youtube/jPCULxc54gM)](https://youtu.be/jPCULxc54gM?si=15nAmi9M_ryn46kA)
 
+# Requisitos
 ### Requisitos funcionales
 
 1. **Como visitante (Usuario No Registrado) del e-commerce:**
