@@ -18,7 +18,8 @@ El proyecto integra los siguientes componentes tecnológicos:
 - Patrón Hexagonal: Aplicación del patrón arquitectónico hexagonal para una mayor flexibilidad y mantenibilidad del código.
 
 # Demo
-[![](https://markdown-videos.deta.dev/youtube/jPCULxc54gM)](https://youtu.be/jPCULxc54gM)
+[![](https://github.com/djram270/AppHyunSeda/assets/54742876/adf21c48-d6b8-4bea-9247-59bd8e14362b)](https://youtu.be/jPCULxc54gM)
+
 
 # Requisitos
 ### Requisitos funcionales
